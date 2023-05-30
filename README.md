@@ -3,7 +3,7 @@
 This is a solution to the  [Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
 
 
-## [📃💻 Website view 🖱🖥](https://)
+## [📃💻 Website view 🖱🖥](https://yashgjoshi20.github.io/Fylo-Landing-Page-With-Two-Column-Layout/)
 
 ## Table of contents
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Fylo-Landing-Page-With-Two-Column-Layout.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Fylo-Landing-Page-With-Two-Column-Layout/)
 
 ## My process
 
